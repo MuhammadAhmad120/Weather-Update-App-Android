@@ -5,13 +5,13 @@
 
 ## Preview
 
-<img src="https://github.com/MuhammdAhmad120/Weather-Update-App-Android/blob/SS/gif1.gif" width="200"/>
+<img src="https://github.com/MuhammadAhmad120/Weather-Update-App-Android/blob/main/SS/gif1.gif" width="200"/>
 
 ## Screenshots
 
 <p float="left">
-	<img src="https://github.com/MuhammdAhmad120/Weather-Update-App-Android/blob/SS/image1.jpg" width="200"/>
-	<img src="https://github.com/MuhammdAhmad120/Weather-Update-App-Android/blob/SS/image2.jpg" width="200"/>
+	<img src="https://github.com/MuhammadAhmad120/Weather-Update-App-Android/blob/main/SS/image1.jpg" width="200"/>
+	<img src="https://github.com/MuhammadAhmad120/Weather-Update-App-Android/blob/main/SS/image2.jpg" width="200"/>
 </p>
 
 
